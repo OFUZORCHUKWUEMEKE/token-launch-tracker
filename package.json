@@ -1,0 +1,19 @@
+{
+  "name": "token-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+   "dependencies": {
+    "@solana/web3.js": "^1.87.6",
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1",
+    "ws": "^8.14.2"
+  },
+  "type": "commonjs"
+}
